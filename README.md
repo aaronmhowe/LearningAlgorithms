@@ -1,2 +1,5 @@
-# LearningAlgorithms
-two python files that each implement a machine learning algorithm designed for binary classification.
+# Machine Learning Algorithms
+This project contains python files that each implements binary classification learning algorithm.
+## Instructions for Running this Program
+# Unix/Linux Users Only
+## Resources Used
