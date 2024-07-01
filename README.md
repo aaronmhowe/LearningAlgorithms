@@ -33,7 +33,7 @@ This project contains python files, each file implements a binary classification
         1. CD into /src (`cd path/to/file/LearningAlgorithms/src`)
         2. Type and enter `chmod +x run_code.sh` and enter your password if/when prompted.
         3. run_code.sh should now be executable. Type and enter `./run_code.sh` to run the shell script.
-4. Alternatively, in your terminal, cd into /src (`cd path/to/file/MovieRecommendations/src`), and then type and enter `python3 FortuneCookieClassifier.py`, allow the program to complete execution, then type and enter `python3 OCR_MutliClassifier.py`. This does the exact same thing as the shell script.
+4. Alternatively, in your terminal, cd into /src (`cd path/to/file/LearningAlgorithms/src`), and then type and enter `python3 FortuneCookieClassifier.py`, allow the program to complete execution, then type and enter `python3 OCR_MutliClassifier.py`. This does the exact same thing as the shell script.
 Important: Make sure you're in `./src` if you're going to run the `.py` files manually.
 ## Resources Used
 Perceptron Learning Algorithm Coding:
