@@ -1,0 +1,93 @@
+Fortune Cookie Classifier Learning:
+
+Standard Perceptron:
+Training Accuracy: 0.7609
+Testing Accuracy: 0.0000
+Averaged Perceptron:
+Averaged Training Accuracy: 0.7609
+Averaged Testing Accuracy: 0.0000
+
+OCR MultiClassifier Learning:
+
+iteration-1 4231
+iteration-1 0.0836 0.0767
+iteration-2 4231
+iteration-2 0.0836 0.0767
+iteration-3 4231
+iteration-3 0.0836 0.0767
+iteration-4 4231
+iteration-4 0.0836 0.0767
+iteration-5 4231
+iteration-5 0.0836 0.0767
+iteration-6 4231
+iteration-6 0.0836 0.0767
+iteration-7 4231
+iteration-7 0.0836 0.0767
+iteration-8 4231
+iteration-8 0.0836 0.0767
+iteration-9 4231
+iteration-9 0.0836 0.0767
+iteration-10 4231
+iteration-10 0.0836 0.0767
+iteration-11 4231
+iteration-11 0.0836 0.0767
+iteration-12 4231
+iteration-12 0.0836 0.0767
+iteration-13 4231
+iteration-13 0.0836 0.0767
+iteration-14 4231
+iteration-14 0.0836 0.0767
+iteration-15 4231
+iteration-15 0.0836 0.0767
+iteration-16 4231
+iteration-16 0.0836 0.0767
+iteration-17 4231
+iteration-17 0.0836 0.0767
+iteration-18 4231
+iteration-18 0.0836 0.0767
+iteration-19 4231
+iteration-19 0.0836 0.0767
+iteration-20 4231
+iteration-20 0.0836 0.0767
+iteration-1 4231
+iteration-1 0.0836 0.0767
+iteration-2 4231
+iteration-2 0.0836 0.0767
+iteration-3 4231
+iteration-3 0.0836 0.0767
+iteration-4 4231
+iteration-4 0.0836 0.0767
+iteration-5 4231
+iteration-5 0.0836 0.0767
+iteration-6 4231
+iteration-6 0.0836 0.0767
+iteration-7 4231
+iteration-7 0.0836 0.0767
+iteration-8 4231
+iteration-8 0.0836 0.0767
+iteration-9 4231
+iteration-9 0.0836 0.0767
+iteration-10 4231
+iteration-10 0.0836 0.0767
+iteration-11 4231
+iteration-11 0.0836 0.0767
+iteration-12 4231
+iteration-12 0.0836 0.0767
+iteration-13 4231
+iteration-13 0.0836 0.0767
+iteration-14 4231
+iteration-14 0.0836 0.0767
+iteration-15 4231
+iteration-15 0.0836 0.0767
+iteration-16 4231
+iteration-16 0.0836 0.0767
+iteration-17 4231
+iteration-17 0.0836 0.0767
+iteration-18 4231
+iteration-18 0.0836 0.0767
+iteration-19 4231
+iteration-19 0.0836 0.0767
+iteration-20 4231
+iteration-20 0.0836 0.0767
+training-accuracy-standard-perceptron 0.0836 testing-accuracy-standard-perceptron 0.0767
+training-accuracy-averaged-perceptron 0.0836 testing-accuracy-averaged-perceptron 0.0767
